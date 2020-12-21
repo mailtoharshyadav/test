@@ -1,0 +1,4 @@
+#localhost/Musclemedium/
+RewriteEngine On
+RewriteBase /
+RewriteRule ^(.*)$  index.html?url=$1 [QSA,L]
