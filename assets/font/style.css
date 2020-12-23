@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "CaviarDreams";
+  font-weight: 400;
+  font-style: normal;
+  src: url("./fonts/CaviarDreams-webfont.woff2") format("woff2"); /* Modern Browsers */
+
+}
+@font-face {
+  font-family: "CaviarDreams";
+  font-weight: 900;
+  font-style: normal;
+  src: url("./fonts/CaviarDreamsBold-webfont.woff2") format("woff2"); /* Modern Browsers */
+}
